@@ -1,0 +1,1 @@
+# TypeScript_MYSQL_Authentication
